@@ -1,4 +1,5 @@
-This is Pure Perl RayCaster v1.0b
+The Pure Perl RayCaster
+==========================
 
 Available under the Artistic License
 Please read the file LICENSE.txt.
