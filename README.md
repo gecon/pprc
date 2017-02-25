@@ -7,6 +7,8 @@ Please read the file LICENSE.txt.
 
 Author: Giannis Economou
 
+Date: (written in 2006)
+
 Website: http://www.antithesis.gr/pprc/ 
 
 Visit the website for more information about this project.
